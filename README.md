@@ -1,13 +1,3 @@
----
-title: "Github and ViCAT Installation"
-author: "Cory Von Keith"
-date: "2023-02-10"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 # Github, git, and version control.
 
